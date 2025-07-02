@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: 'mybl_kabbik_http',
-      cwd: '/opt/kabbik-services/myblAudioBookKabbik',
+      cwd: '/opt/kabbik-services/myblAudioBookHttpOnlyPage',
       "instances" : "1",
       script: 'npm',
       args: 'start',
